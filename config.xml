@@ -1,0 +1,5 @@
+<config>
+    <db name="username" value="$(id)" />
+    <db name="password" value="$(id)" />
+    <db name="database" value="" />
+</config>
